@@ -13,11 +13,11 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
 
    </p>
 <p align="center">
-<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/Malvin King-purple?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/Yt Channel-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Andyech"><img title="Author" src="https://img.shields.io/badge/Malvin King-purple?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/Yt Channel-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=purple&style=flat-square"></a>
+<a href="https://github.com/SoloLord201/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=purple&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/MALVIN-XD?color=blue&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-XD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/MALVIN-XD?color=blue&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-XD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/MALVIN-XD?label=Watchers&color=blue&style=flat-square"></a>
@@ -26,7 +26,7 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
 <a href="https://github.com/kingmalvn/MALVIN-XD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
 <p align="center"><img src="https://profile-counter.glitch.me/{MALVIN-XD}/count.svg" alt="kingmalvn :: Visitor's Count" old_src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" /></p>
 <p align="center">
-<a href="https://github.com/kingmalvn/MALVIN-XD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/Andyech/KAKASHI-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=MALVIN-XD&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
@@ -43,11 +43,11 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/kingmalvn/MALVIN-XD/fork"><img title="MALVIN-XD" src="https://img.shields.io/badge/FORK-MALVIN-XDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Andyech/KAKASHI-MD/fork"><img title="KAKASHI-XD" src="https://img.shields.io/badge/FORK-KAKSHI-XDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
    
 **2. Second Step** 
 
-*_You will need a session ID to run the MALVIN-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
+*_You will need a session ID to run the KAKASHI-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
 
 <p align="centre">
 <a href='https://malvinxd-pair-fa60c7bfab6b.herokuapp.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
@@ -189,7 +189,7 @@ Stay connected with the latest updates and community by joining our official Wha
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029Vb1g3EVLY6d6W3Tq6H0Z"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>

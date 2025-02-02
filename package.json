@@ -1,12 +1,12 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
+  "name": "KAKASHI-xᴅ",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By Nexus tech inc",
+  "description": "A WhatsApp Bot Created By BLACK-HAWK TEAM tech inc",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-XD",
-    "stop": "pm2 stop MALVIN-XD",
-    "restart": "pm2 restart MALVIN-XD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name KAKASHI-XD",
+    "stop": "pm2 stop KAKASHI-XD",
+    "restart": "pm2 restart KAKASHI-XD"
   },
    "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",

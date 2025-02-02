@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI XMD
+Creator      : PROJECT X & ANDY( BLACK HAWK TEAM )
+Repo         : https://github.com/Andyech/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -12,8 +12,8 @@ const config = require('../../settings');
 const {cmd , commands} = require('../command')
 cmd({
     pattern: "about",
-    alias: ["king"],
-    react: "🧠",
+    alias: ["PROJECT"],
+    react: "✡️",
     desc: "get owner dec",
     category: "main",
     filename: __filename
@@ -22,29 +22,29 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let madeMenu = `╭┄┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
 
-*👋 ʜᴇʟʟᴏ ᴜsᴇʀ ${pushname}*\n\n *ɪ ᴀᴍ ᴍᴀʟᴠɪɴ xᴍᴅ*\n\n
-  ɪ ᴀᴍ  ᴡʜᴀᴛsᴀᴘᴘ ʙᴀsᴇᴅ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ ғʀᴏᴍ ᴢɪᴍʙᴀʙᴡᴇ.\nᴍʏ sᴏʟᴇ ᴘᴜʀᴘᴏsᴇ ɪs ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴛʜᴇ ʙᴜʀᴅᴇɴ ᴏʀ ᴄᴏsᴛ ᴏғ ᴘᴜʀᴄʜᴜsɪɴɢ ᴅᴀᴛᴀ ʙᴜɴᴅʟᴇ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs, ᴀᴘᴘs, ᴠɪᴅᴇᴏs & ᴍᴏᴠɪᴇs ʙʏ  ᴜsɪɴɢ ᴡʜᴀᴛsᴀᴘᴘ  ʙᴜɴᴅʟᴇs.
+*☯️ ʜᴇʟʟᴏ ᴜsᴇʀ ${pushname}*\n\n *ɪ ᴀᴍ KAKASHI HATAKE xᴍᴅ*\n\n
+  ɪ ᴀᴍ  ᴡʜᴀᴛsᴀᴘᴘ ʙᴀsᴇᴅ SHONEN ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ PROJECT-X & ANDY ғʀᴏᴍ ᴢɪᴍʙᴀʙᴡᴇ & UGANDA.\nᴍʏ sᴏʟᴇ ᴘᴜʀᴘᴏsᴇ ɪs ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴛʜᴇ ʙᴜʀᴅᴇɴ ᴏʀ ᴄᴏsᴛ ᴏғ ᴘᴜʀᴄʜᴜsɪɴɢ ᴅᴀᴛᴀ ʙᴜɴᴅʟᴇ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs, ᴀᴘᴘs, ᴠɪᴅᴇᴏs & ᴍᴏᴠɪᴇs ʙʏ  ᴜsɪɴɢ ᴡʜᴀᴛsᴀᴘᴘ  ʙᴜɴᴅʟᴇs.
 \n\n *ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀ ᴠɪsɪᴛ.....
      ─┄┄┄┅┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┄┄─
 
-> *SOURCE CODE* : https://github.com/kingmalvn/MALVIN-XMD
+> *SOURCE CODE* : https://github.com/Andyech/KAKASHI-MD
 
-> *FOLLOW OWNER* :https://github.com/kingmalvin/
+> *FOLLOW OWNER* :https://github.com/SoloLord201/
 
-> *OWNER'S WHATSAPP* : https://wa.me/263714757857/?text=ᴍᴀʟᴠɪɴ-xᴍᴅ+Fan+Here
+> *OWNER'S WHATSAPP* : https://wa.me/263788521064/?text=KAKASHI-xᴍᴅ+Fan+Here
 
 > *maintained by* :
-https://wa.me/263780166288/?text=ᴍᴀʟᴠɪɴ-xᴍᴅ+Fan+Here
+https://wa.me/263788521064/?text=KAKASHI-xᴍᴅ+Fan+Here
 
-> *SUPPORT CHANNEL* : https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+> *SUPPORT CHANNEL* : https://whatsapp.com/channel/0029Vb1g3EVLY6d6W3Tq6H0Z
 
 > *FOLLOW INSTAGRAM* :https://instagram.com/malvinking20/
 
 > *FOLLOW OWNER* :https://youtube.com/@malvintech2/
 
- *RELEASE DATE* - *27 ᴊᴀɴᴜᴀʀʏ 2025*
+ *RELEASE DATE* - *02 FEBRUARY 2025*
  
-> *ʟᴏʀᴅ ᴍᴀʟᴠɪɴ*
+> *BLACK HAWK TEAM*
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 `
@@ -68,9 +68,9 @@ await conn.sendMessage(
             { quoted: mek }
         );
 
-        // Send audio //https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3
-        await conn.sendMessage(from, { //https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3
-            audio: { url: 'https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3' },
+        // Send audio //https://github.com/SoloLord201//Kakashi-database/raw/refs/heads/main/Media/menu.mp3
+        await conn.sendMessage(from, { //https://github.com/sololord201/sololord201-database/raw/refs/heads/main/Media/menu.mp3
+            audio: { url: 'https://github.com/sololord201/sololord201-database/raw/refs/heads/main/Media/menu.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
